@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! Sou Eduardo Arrigoni, acadêmico em Sistemas de Informação pelo IFES e estudioso de programação e computação🤙
 
 ![Eduardo Arrigoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoarrigoni&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoarrigoni&layout=compact&theme=dark)
