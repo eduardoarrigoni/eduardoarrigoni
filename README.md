@@ -1,7 +1,21 @@
 ## Hello! Sou Eduardo Arrigoni, acadêmico em Sistemas de Informação pelo IFES e estudioso de programação e computação🤙
 
-![Eduardo Arrigoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoarrigoni&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoarrigoni&layout=compact&theme=dark)
+<div>
+  
+  <a href="https://github.com/eduardoarrigoni/github-readme-stats">
+  <img height=250 align="center" src="https://github-readme-stats.vercel.app/api?username=eduardoarrigoni&theme=dark" />
+</a>
+<a href="https://github.com/eduardoarrigoni/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoarrigoni&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+
+##
+<a href="https://github.com/eduardoarrigoni/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=algoritmos&theme=dark" />
+</a>
+
+
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
