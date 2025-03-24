@@ -13,6 +13,9 @@
 <a href="https://github.com/eduardoarrigoni/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=algoritmos&theme=dark" />
 </a>
+<a href="https://github.com/eduardoarrigoni/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=linguagem-c&theme=dark" />
+</a>
 
 
 </div>
