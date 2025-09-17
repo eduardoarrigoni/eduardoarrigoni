@@ -19,6 +19,9 @@
 <a href="https://github.com/eduardoarrigoni/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=Aprendizado-em-java&theme=dark" />
 </a>
+<a href="https://github.com/eduardoarrigoni/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=Algoritmos-e-desafios&theme=dark" />
+</a>
 
 
 </div>
