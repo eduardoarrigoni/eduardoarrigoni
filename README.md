@@ -14,10 +14,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=algoritmos&theme=dark" />
 </a>
 <a href="https://github.com/eduardoarrigoni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=linguagem-c&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=Sistema-hospital&theme=dark" />
 </a>
 <a href="https://github.com/eduardoarrigoni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=Aprendizado-em-java&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=Primeira-Biblioteca-Node&theme=dark" />
 </a>
 <a href="https://github.com/eduardoarrigoni/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=Algoritmos-e-desafios&theme=dark" />
