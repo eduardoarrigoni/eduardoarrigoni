@@ -9,32 +9,25 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoarrigoni&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-##
-<a href="https://github.com/eduardoarrigoni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=algoritmos&theme=dark" />
-</a>
-<a href="https://github.com/eduardoarrigoni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=Sistema-hospital&theme=dark" />
-</a>
-<a href="https://github.com/eduardoarrigoni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=Primeira-Biblioteca-Node&theme=dark" />
-</a>
-<a href="https://github.com/eduardoarrigoni/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eduardoarrigoni&repo=Algoritmos-e-desafios&theme=dark" />
-</a>
 
-</div>
+## Skills
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="icon-arrigoni" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="icon-arrigoni" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="icon-arrigoni" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  <img align="center" alt="icon-arrigoni" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-          
-</div>
+ <p align="center">
+  <h3> Aplicações: </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,javascript,nodejs,postgres,mongodb,express"/>
+  </a>
+</p>
+
+<p align="center">
+  <h3> DevOps: </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+  </a>
+</p>
 
 ##
- 
+
  <div> 
 
   <a href="https://instagram.com/arrigoni_edu" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
